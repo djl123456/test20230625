@@ -1,0 +1,7 @@
+{
+    "name": "daijialong/php-test-20230625",
+    "type": "project",
+    "description": "The test Framework.",
+    "keywords": ["framework", "daijialong"],
+    "license": "MIT",
+}
